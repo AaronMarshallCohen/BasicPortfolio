@@ -1,2 +1,2 @@
 # BasicPortfolio
-I am doing my first basic porfolio
+My first basic portfolio
